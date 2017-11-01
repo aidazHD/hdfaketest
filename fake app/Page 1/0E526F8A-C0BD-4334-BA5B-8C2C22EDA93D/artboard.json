@@ -26,7 +26,7 @@
     "y": 461
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -44,6 +44,10 @@
     {
       "class": "text",
       "id": "E352D167-CDE8-4F57-B377-1E1C6F479639"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4AF44919-AB56-4518-AAF6-DF9042403945"
     }
   ],
   "name": "iPhone 8",
